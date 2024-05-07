@@ -54,6 +54,7 @@ dependencies:
   flutter_jailbreak_detection:
   check_vpn_connection:
   local_auth:
+  flutter_hooks:
 
 
 dependency_overrides:
